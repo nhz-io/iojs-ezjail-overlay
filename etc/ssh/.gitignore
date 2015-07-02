@@ -1,4 +1,3 @@
 *
 !.gitignore
-!profile
-!ssh
+!sshd_config
